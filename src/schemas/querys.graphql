@@ -1,0 +1,13 @@
+scalar Date
+
+type Query {
+  hello: String
+  hour: Date
+  userConnected: User!
+  productHighlight: Product
+  luckyNumbers: [Int!]!
+  users: [User]
+  userById(id: Int): User
+  profile: [Profile]
+  profileById(id: Int): Profile
+}
