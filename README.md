@@ -1,5 +1,9 @@
 # GraphQL: Criando APIs Profissionais e Flexíveis
 
+## Sobre
+
+Este repositório tem como objetivo registrar os conceitos básicos de GraphQL que aprendi durante os módulos iniciais do curso [GraphQL: Criando APIs Profissionais e Flexíveis](https://www.udemy.com/course/graphql-criando-apis-profissionais-e-flexiveis). Nele, adaptei os conhecimentos para TypeScript, explorando tópicos como schemas, queries e mutations.
+
 ## O que é GraphQL?
 
 GraphQL é uma linguagem de consulta para APIs e um tempo de execução para executar essas consultas com seus dados existentes. Desenvolvido internamente pelo Facebook em 2012 e lançado publicamente em 2015, GraphQL oferece uma maneira mais eficiente, poderosa e flexível de trabalhar com APIs em comparação aos métodos tradicionais como REST.
